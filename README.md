@@ -1,16 +1,72 @@
-## Hi there 👋
+Hi 👋, I'm Abhishek Yadav
 
-<!--
-**abhishekyadav1118/abhishekyadav1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech CSE Student | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Python development. I enjoy building practical projects and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science Engineering
+- 🤖 Focused on Artificial Intelligence & Machine Learning
+- 🐍 Learning and working with Python
+- 🧠 Exploring Machine Learning & Deep Learning
+- ☁️ Interested in Cloud Computing
+- 🔨 Building practical projects to improve my development skills
+- 📚 Always learning something new
+
+---
+
+🛠️ Tech Stack
+
+Languages
+
+- Python
+- SQL
+- C/C++
+
+AI / Machine Learning
+
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Pandas
+- NumPy
+- Matplotlib
+
+Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+
+---
+
+📌 Current Focus
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning
+- 🐍 Python Development
+- ☁️ Cloud Computing
+- 📊 Data Analysis
+
+---
+
+📂 Featured Projects
+
+🚀 Check out my repositories to see my projects, experiments, and learning journey.
+
+---
+
+📈 GitHub Journey
+
+I'm continuously learning, building, and contributing to improve my skills in AI/ML and software development.
+
+---
+
+🤝 Let's Connect
+
+Feel free to explore my repositories and connect with me for collaboration and learning opportunities.
