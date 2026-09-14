@@ -1,36 +1,50 @@
-name: Generate Contribution Snake
+<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<h3 align="center">
+🚀 B.Tech CSE Student | 🤖 AI/ML Enthusiast | 🐍 Python Developer
+</h3>
 
-permissions:
-  contents: write
+<p align="center">
+  <a href="https://portfolio-ten-xi-qdq1qoacsx.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A0A0A?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-yadav-247858373/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/abhishekyadav1118">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+---
 
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: abhishekyadav1118
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+### 👨‍💻 About Me
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+I'm **Abhishek Yadav**, a B.Tech Computer Science Engineering student
+passionate about **Artificial Intelligence, Machine Learning, Python,
+and Cloud Computing**.
 
+💡 I enjoy turning ideas into practical projects and continuously
+improving my development and problem-solving skills.
 
-          ---
+- 🎓 B.Tech Computer Science Engineering
+- 🤖 Focused on Artificial Intelligence & Machine Learning
+- 🐍 Python Developer
+- 🧠 Exploring Machine Learning & Deep Learning
+- ☁️ Interested in Cloud Computing
+- 🚀 Building practical AI/ML projects
+- 📚 Always learning and exploring new technologies
+
+---
+
+### 🛠️ What I Work With
+
+**Languages:** Python • SQL • C/C++
+
+**AI/ML:** Machine Learning • Deep Learning • TensorFlow • Pandas • NumPy
+
+**Tools:** Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+    
 
 ## 📊 GitHub Statistics
 
